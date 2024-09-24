@@ -1,0 +1,5 @@
+*.sh linguist-language=Shell 
+*.md linguist-language=Markdown 
+*.py linguist-language=Python 
+.pythonlibs/* linguist-vendored 
+*.nix linguist-vendored 
