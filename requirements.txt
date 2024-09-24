@@ -1,0 +1,9 @@
+discord.py
+youtube_dl
+requests
+python-dotenv
+replit
+yt-dlp
+flask
+SpeechRecognition
+PyAudio
